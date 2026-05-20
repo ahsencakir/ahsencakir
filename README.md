@@ -72,11 +72,3 @@ This internship helped me bridge the gap between **theoretical knowledge and rea
   <img src="https://github-readme-stats.vercel.app/api?username=ahsencakir&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsencakir&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-## Connect with Me  
-
-- [**LinkedIn**](https://www.linkedin.com/in/ahsencakir)  
-- [**Email**](mailto:ahsencakir@hotmail.com)  
-- [**GitHub**](https://github.com/ahsencakir)  
